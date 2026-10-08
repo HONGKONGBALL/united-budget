@@ -1,0 +1,18 @@
+Household budget
+Purchases: 21
+
+Spending by category
+  Pantry: HK$186.30
+  Dairy: HK$129.20
+  Produce: HK$98.20
+  Transit: HK$58.00
+
+Monthly totals
+  2026-09: HK$303.90
+  2026-10: HK$167.80
+  All months: HK$471.70
+
+Three largest purchases
+  1. Rice 5kg (Pantry) HK$72.00 on 2026-09-05
+  2. Cheese block (Dairy) HK$46.00 on 2026-10-04
+  3. Cooking oil (Pantry) HK$39.90 on 2026-09-18

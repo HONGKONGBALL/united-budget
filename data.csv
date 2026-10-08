@@ -1,0 +1,22 @@
+item,category,price,date
+Bok choy,Produce,8.90,2026-09-03
+Bananas,Produce,16.50,2026-09-03
+Tomatoes,Produce,14.80,2026-09-08
+Apples,Produce,26.00,2026-09-15
+Spinach,Produce,9.60,2026-10-02
+Oranges,Produce,22.40,2026-10-06
+Milk 2L,Dairy,34.90,2026-09-03
+Eggs dozen,Dairy,29.80,2026-09-12
+Yogurt,Dairy,18.50,2026-09-20
+Cheese block,Dairy,46.00,2026-10-04
+Rice 5kg,Pantry,72.00,2026-09-05
+Dried noodles,Pantry,13.20,2026-09-05
+Cooking oil,Pantry,39.90,2026-09-18
+Soy sauce,Pantry,16.80,2026-10-01
+Bread loaf,Pantry,15.50,2026-10-07
+Rolled oats,Pantry,28.90,2026-10-07
+MTR ride,Transit,15.80,2026-09-04
+Bus ride,Transit,8.60,2026-09-11
+Star Ferry crossing,Transit,5.00,2026-09-22
+Green minibus,Transit,10.20,2026-10-03
+MTR ride,Transit,18.40,2026-10-05
